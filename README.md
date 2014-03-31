@@ -1,2 +1,2 @@
-co-op-email-framework
+The Co-Operative Emil Framework
 =====================
