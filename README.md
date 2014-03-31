@@ -1,2 +1,2 @@
-The Co-Operative Emil Framework
+The Co-Operative Email Framework
 =====================
