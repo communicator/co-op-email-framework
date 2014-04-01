@@ -40,71 +40,71 @@ The Co-operative Group - Email Framework
 <tbody>
 <tr>
 <td>iOS (iPhone/iPad)</td>
-<td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+<td><span style="color: #49900c; font-weight: bold;">&#10004;</span></td>
 </tr>
 <tr>
 <td>Android 4.3 native client</td>
-<td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+<td><span style="color: #49900c; font-weight: bold;">&#10004;</span></td>
 </tr>
 <tr>
 <td>Android 4.4 native client</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>Android Outlook Exchange via native client</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>Android Outlook.com app</td>
-<td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+<td><span style="color: #49900c; font-weight: bold;">&#10004;</span></td>
 </tr>
 <tr>
 <td>Android Gmail app</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>Android Yahoo! Mail app</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>Gmail (Android Browser)</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>Outlook.com (Android Browser)</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>Yahoo! Mail (Android Browser)</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>Windows Phone 7</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>Windows Phone 7.5</td>
-<td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+<td><span style="color: #49900c; font-weight: bold;">&#10004;</span></td>
 </tr>
 <tr>
 <td>Windows Phone 8</td>
-<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
+<td><span style="color: #ac193d; font-weight: bold;">&#10008;</span></td>
 </tr>
 <tr>
 <td>BlackBerry OS 6</td>
-<td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+<td><span style="color: #49900c; font-weight: bold;">&#10004;</span></td>
 </tr>
 <tr>
 <td>BlackBerry OS 7</td>
-<td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+<td><span style="color: #49900c; font-weight: bold;">&#10004;</span></td>
 </tr>
 <tr>
 <td>BlackBerry Z10</td>
-<td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+<td><span style="color: #49900c; font-weight: bold;">&#10004;</span></td>
 </tr>
 <tr>
 <td>Kindle Fire native client</td>
-<td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+<td><span style="color: #49900c; font-weight: bold;">&#10004;</span></td>
 </tr>
 </tbody>
 </table>
