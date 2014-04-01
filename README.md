@@ -31,7 +31,7 @@ The Co-operative Group - Email Framework
 
 <p>Up until early 2014</p>
 
-<table>
+<table width="100%">
 <thead>
 <tr>
 <th style="text-align: center;" colspan="2">Media Query Support</th>
