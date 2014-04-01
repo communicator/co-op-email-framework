@@ -1,4 +1,5 @@
-The Co-Operative Email Framework
+The Co-operative Group - Email Framework
 =====================
 
-<h3>A few responsive email patterns that go a long way</h3>
+<h3>Adaptive vs. Fluid</h3>
+<p>Up until early 2014</p>
