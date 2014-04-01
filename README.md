@@ -31,7 +31,7 @@ The Co-operative Group - Email Framework
 
 <p>Up until early 2014</p>
 
-<table width="100%">
+<table>
 <thead>
 <tr>
 <th style="text-align: center;" colspan="2">Media Query Support</th>
@@ -43,8 +43,12 @@ The Co-operative Group - Email Framework
 <td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
 </tr>
 <tr>
-<td>Android 4.x native client</td>
+<td>Android 4.3 native client</td>
 <td><span style="color: #49900c; font-weight: bold;">Yes</span></td>
+</tr>
+<tr>
+<td>Android 4.4 native client</td>
+<td><span style="color: #ac193d; font-weight: bold;">No</span></td>
 </tr>
 <tr>
 <td>Android Outlook Exchange via native client</td>
