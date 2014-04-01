@@ -9,11 +9,11 @@ The Co-operative Group - Email Framework
 
 <p>These template frameworks are intended to be used by The Co-operative Group's roster of agencies to help transform the end recipients’ email experience as well as strengthen overall customer relationships from the email inbox from which ever device they are viewing the email on.</p>
 
-<p>These templates are based on work with numerous desktop, mobile and tablet implementations utilising Communicator. As we’re sure you are aware, mobile devices and their capabilities are forever changing and likewise so are the techniques used to make sure that emails render correctly on the range of available email clients.</p>
+<p>These templates are based on work with numerous desktop, mobile and tablet implementations utilising Communicator. As we’re sure you are aware, mobile devices and their capabilities are forever changing and likewise so are the techniques used to make sure that emails render correctly on the range of available email clients, because of this Communicator will complete updates to these frameworks at least once a month to ensure that all emails sent out by The Co-Operative Group adheres to the best practice available at that time.</p>
 
-<h3>Adaptive or Fluid?</h3>
+<h3>Responsive Email Design</h3>
 
-<p>Those of you who are already well versed in email design will know already that because of the lack of any email standards, getting an email to render pixel perfect across every single device is nearly impossible, and the same goes for making emails mobile friendly.</p>
+<p>Those of you who are well versed in designing emails will already know that because of the lack of any email standards, getting an email to render pixel perfect across every single device is nearly impossible, and the same goes for making emails mobile friendly.</p>
 
 <p>Because of this we have chosen to make 2 versions of the templates available; one which relies on media queries (adaptive), and one which doesn't (fluid).</p>
 
