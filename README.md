@@ -15,9 +15,9 @@ The Co-operative Group - Email Framework
 
 <p>Those of you who are well versed in designing emails will already know that because of the lack of any email standards, getting an email to render pixel perfect across every single device is nearly impossible, and the same goes for making emails mobile friendly.</p>
 
-<p>Responsive email uses a media query, also known as @media—a special set of CSS styles that act like conditional statements or dynamic rules. Carefully planned, they can help make emails more readable on different screen sizes.</p>
+<p>Responsive emails use media queries, a special set of CSS styles that act like conditional statements or dynamic rules. Carefully planned, they can help make emails more readable on different screen sizes.</p>
 
-<p>Media queries detect the screen size of a device and then “turn on” different sets of rules based on that screen size. These can be very simple to implement or quite complex, depending on what you’d like to accomplish. They do require more planning and testing than standard emails, and don’t work in all email clients. </p>
+<p>Media queries detect the screen size of a device and then “turn on” different sets of rules based on that screen size. These can be very simple to implement or quite complex, depending on what you’d like to accomplish.</p>
 
 <p>As you may know, media queries are not supported by every mobile email client - for example, Gmail will not show the responsive version of your email, on any platform. For more information on which email clients do and don't support responsive email design, please see below:<p>
 
