@@ -19,6 +19,8 @@ The Co-operative Group - Email Framework
 
 <p>Media queries detect the screen size of a device and then “turn on” different sets of rules based on that screen size. These can be very simple to implement or quite complex, depending on what you’d like to accomplish. They do require more planning and testing than standard emails, and don’t work in all email clients. </p>
 
+<p>As you may know, media queries are not supported by every mobile email client - for example, Gmail will not show the responsive version of your email, on any platform. For more information on which email clients do and don't support responsive email design, please see below:<p>
+
 <table>
 <thead>
 <tr>
