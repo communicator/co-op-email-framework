@@ -15,21 +15,9 @@ The Co-operative Group - Email Framework
 
 <p>Those of you who are well versed in designing emails will already know that because of the lack of any email standards, getting an email to render pixel perfect across every single device is nearly impossible, and the same goes for making emails mobile friendly.</p>
 
-<p>Because of this we have chosen to make 2 versions of the templates available; one which relies on media queries (adaptive), and one which doesn't (fluid).</p>
+<p>Responsive email uses a media query, also known as @media—a special set of CSS styles that act like conditional statements or dynamic rules. Carefully planned, they can help make emails more readable on different screen sizes.</p>
 
-<p>Which one you choose to work with depends on the need of the business. Although the fluid template may look the stronger of the two, because it is it built on percentages, the pixel perfect </p>
-
-<p><strong>Adaptive</strong></p>
-
-<p>The adaptive template relies on media queries to force table columns into rows and shrinks images, all while maintaining the layout's spacing, padding, and alignment.</p>
-
-<p><strong>Fluid</strong></p>
-
-<p>The fluid template relies on one layout that looks good on all screen sizes. Good for when media queries aren't available to detect device size and reconfigure the layout.</p>
-
-<h3>The Future?</h3>
-
-<p>Up until early 2014</p>
+<p>Media queries detect the screen size of a device and then “turn on” different sets of rules based on that screen size. These can be very simple to implement or quite complex, depending on what you’d like to accomplish. They do require more planning and testing than standard emails, and don’t work in all email clients. </p>
 
 <table>
 <thead>
@@ -128,3 +116,8 @@ The Co-operative Group - Email Framework
 </tr>
 </tbody>
 </table>
+
+<h3>The Future?</h3>
+
+<p>Up until early 2014</p>
+
