@@ -12,4 +12,5 @@ The Co-operative Group - Email Framework
 <p>These templates are based on work with numerous desktop, mobile and tablet implementations utilising Communicator. As we’re sure you are aware, mobile devices and their capabilities are forever changing and likewise so are the techniques used to make sure that emails render correctly on the range of available email clients.</p>
 
 <h3>Adaptive vs. Fluid</h3>
+
 <p>Up until early 2014</p>
