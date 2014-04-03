@@ -13,7 +13,7 @@ The Co-operative Group - Email Framework
 
 <h3>Responsive Email Design</h3>
 
-<p>Those of you who are well versed in designing emails will already know that because of the lack of any email standards, getting an email to render pixel perfect across every single device is nearly impossible, and the same goes for making emails mobile friendly.</p>
+<p>Those of you who are well versed in designing emails will already know that because of the lack of any email standards, getting an email to render pixel perfect across every single email client is nearly impossible, and the same goes for making emails mobile friendly.</p>
 
 <p>Responsive emails use media queries, a special set of CSS styles that act like conditional statements or dynamic rules. Carefully planned, they can help make emails more readable on different screen sizes.</p>
 
