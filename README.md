@@ -3,7 +3,7 @@ The Co-operative Group - Email Framework
 
 <h3>Getting Started</h3>
 
-<p>Email today is viewed in a myriad of different ways, from different email clients, to different browsers to different devices and then on to different environments. The experience you provided to the recipient can draw customers in or drive them away, but it can be difficult to ensure they receive the best experience for the device they’re using at the time they want to view your message.</p>
+<p>Email today is viewed in a myriad of different ways, from different email clients, to different browsers to different devices and then on to different environments. The experience you provide to the recipient can draw customers in or drive them away, but it can be difficult to ensure they receive the best experience for the device they’re using at the time they want to view your message.</p>
 
 <p>While many websites are now optimised for the device they are being viewed on, email messages still lag behind, with many companies not yet using Responsive Email Design throughout their email campaigns. However, best-in-class companies are improving their conversion rates by delivering immersive email experiences that are tailored to recipients' needs and their viewing device.</p>
 
